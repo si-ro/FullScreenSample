@@ -20,8 +20,9 @@ public class FullScreemSample {
 		Canvas c = new Canvas();
 		c.setBackground(Color.RED);
 		win.add(c);
-		win.show(); // or setVisible(true);
-
+		//win.show();
+		win.setVisible(true);
+		
 		// Enter full-screen mode
 		gs.setFullScreenWindow(win);
 		win.validate();

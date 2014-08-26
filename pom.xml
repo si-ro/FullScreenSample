@@ -22,7 +22,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>FullScreemSample</mainClass>
+							<mainClass>jp.qualitas.fullscreensample.javafx.FullScreenSampleJavaFX</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
